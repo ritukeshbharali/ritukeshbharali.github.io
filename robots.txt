@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ritukeshbharali.github.io/ritukeshbharali.github.io/sitemap.xml
